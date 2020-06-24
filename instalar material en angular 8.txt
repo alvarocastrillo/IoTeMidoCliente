@@ -1,0 +1,3 @@
+El problema no está relacionado con la versión del nodo. Se debe a material angular incompatible y versiones angulares. Para angular 8, necesita material angular versión 8.2.3. Ejecute el siguiente comando desde el directorio raíz de su proyecto.
+
+npm i --save @angular/cdk@8.2.3 @angular/material@8.2.3
